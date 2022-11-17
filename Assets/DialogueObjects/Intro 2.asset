@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712c9a7c50d827d44aca11561c3fadfa, type: 3}
+  m_Name: Intro 2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Et biens tu continue la conversation ! Mais le seul moyen de sortir d'un dialogue
+    pour le moment est en cliquant sur une r\xE9ponse qui n'attend pas une autre
+    r\xE9ponse, qui elle m\xEAme attend une autre r\xE9ponse et-"
+  - "Mais peut je parle trop, va, marche dans le vide! Les d\xE9cors seront r\xE9jout\xE9s
+    plus tard, \xE7a a d\xE9j\xE0 pris une semaine \xE0 faire le syst\xE8me de dialogue!"
+  response: []

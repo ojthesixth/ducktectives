@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712c9a7c50d827d44aca11561c3fadfa, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hey! C'est  le prototype du jeu, si tu veux skipper utilise la barre d'espace.
+  response:
+  - responseText: "Et si je clique l\xE0?"
+    dialogueObject: {fileID: 11400000, guid: 669c302c7e7db59449851359b8093104, type: 2}
+  - responseText: chut
+    dialogueObject: {fileID: 11400000, guid: 49d79927e8aa32f418ca97bc276aefc1, type: 2}
